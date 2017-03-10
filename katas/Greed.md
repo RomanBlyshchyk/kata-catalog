@@ -10,7 +10,7 @@ Write a scoring method that calculates the best score based on a given roll usin
 
 - A single one (100 points)
 - A single five (50 points)
-- Triple ones [1,1,1] (1000 points)
+- Triple ones [1,1,1]: (1000 points)
 - Triple twos [2,2,2] (200 points)
 - Triple threes [3,3,3] (300 points)
 - Triple fours [4,4,4] (400 points)
